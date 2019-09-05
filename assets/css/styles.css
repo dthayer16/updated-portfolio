@@ -2484,6 +2484,11 @@ body {
 .section-title h2 {
   margin-bottom: 60px; }
 
+  #assignmentImage {
+    height: 379px;
+    width: 443px;
+  }
+
 /*
     ==============
        SERVICES
